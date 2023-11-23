@@ -1,0 +1,28 @@
+D:\Web avanzada\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.exe
+D:\Web avanzada\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.deps.json
+D:\Web avanzada\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.runtimeconfig.json
+D:\Web avanzada\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.dll
+D:\Web avanzada\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.pdb
+D:\Web avanzada\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web avanzada\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.AssemblyInfoInputs.cache
+D:\Web avanzada\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.AssemblyInfo.cs
+D:\Web avanzada\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.csproj.CoreCompileInputs.cache
+D:\Web avanzada\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.dll
+D:\Web avanzada\Actividad_POO_CSharp\obj\Debug\net7.0\refint\Actividad_POO_CSharp.dll
+D:\Web avanzada\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.pdb
+D:\Web avanzada\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.genruntimeconfig.cache
+D:\Web avanzada\Actividad_POO_CSharp\obj\Debug\net7.0\ref\Actividad_POO_CSharp.dll
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.exe
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.deps.json
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.runtimeconfig.json
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.dll
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\bin\Debug\net7.0\Actividad_POO_CSharp.pdb
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.AssemblyInfoInputs.cache
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.AssemblyInfo.cs
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.csproj.CoreCompileInputs.cache
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.dll
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\obj\Debug\net7.0\refint\Actividad_POO_CSharp.dll
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.pdb
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\obj\Debug\net7.0\Actividad_POO_CSharp.genruntimeconfig.cache
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\Actividad_POO_CSharp\obj\Debug\net7.0\ref\Actividad_POO_CSharp.dll
