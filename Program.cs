@@ -33,10 +33,13 @@
 
             Console.WriteLine("[ Empleado ]");
             Employee? employee = CreateEmployee();
-            employee?.Present();
 
             Console.WriteLine("\n[ Gerente ]");
             Manager? manager = CreateManager();
+
+            Console.WriteLine("\n[ INFORMACION ]\n");
+            employee?.Present();
+            Console.WriteLine(' ');
             manager?.Present();
         }
     }
